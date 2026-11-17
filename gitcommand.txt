@@ -1,0 +1,10 @@
+         Day 1
+Creating New Repo 
+git commands 
+1. git clone 
+2. git add .
+3. git commit -m " msg"
+4. git push
+5. git status 
+6. git config --global user.name "Harshit Sharma"
+7. git config --global user.email "harshitsharma3264@gmail.com"
